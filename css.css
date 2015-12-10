@@ -1,0 +1,32 @@
+#faqs {
+    width: 447px;
+    margin: 0 auto;
+}
+
+h1 {
+	font-family: 'Montserrat Alternates', sans-serif;
+	color: #838383;
+	opacity: .2;
+	position: relative;
+}
+
+h2 {
+	color: #626262;
+	text-decoration: none;
+	background: #cecece;
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-weight: 700;
+	padding: 20px;
+	text-align: center;
+	border-radius: 5px;	
+	margin: 8px;
+}
+
+div {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 300;
+    color: #838383;
+    margin: 0 8px;
+    display:none;
+    /*opacity:0;*/
+}
